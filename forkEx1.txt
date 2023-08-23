@@ -1,0 +1,5 @@
+fork 과정
+1. 다른 작업을 fork를 통해 복사해서 옮겨온다
+2. git clone https:// 내주소.git
+3. 수정 후 commit
+4. push 
