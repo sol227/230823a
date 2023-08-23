@@ -17,3 +17,5 @@ $ git push
 
 ### github에서 내려 받기 ###
 `$ git pull origin main`
+
+### clone & pull 특징 ###
