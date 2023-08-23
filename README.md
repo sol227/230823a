@@ -16,3 +16,4 @@ $ git commit -am "README.md 파일 수정"
 $ git push
 
 ### github에서 내려 받기 ###
+`$ git pull origin main`
