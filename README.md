@@ -14,3 +14,5 @@ $ git push -u origin main
 4. README.md 파일 온라인 저장소에 업로드 <br>
 $ git commit -am "README.md 파일 수정"
 $ git push
+
+### github에서 내려 받기 ###
